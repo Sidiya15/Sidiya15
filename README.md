@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sidiya15
-- 👀 I’m a student of second year master degree in data science at Paris Saclay univerity
+- 👀 I’m a student of second year master degree in data science at Paris Saclay university
 - 🌱 I’m currently looking for a six-month internship in order to obtain my diploma
 - 📫 You can reach me by email on sidiya.babah@gmail.com
 
